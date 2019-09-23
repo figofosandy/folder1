@@ -1,6 +1,5 @@
-# folder1
-FFFFFFF   IIIIII 
-FF          II
-FFFFFFF     II
-FF          II
-FF        IIIIII
+FFFFFFF   IIIIII   GGGGGG      OOOOOO
+FF          II    GG          OO    OO
+FFFFFFF     II    GG  GGG     OO    OO
+FF          II    GG    GG    OO    OO
+FF        IIIIII   GGGGGG      OOOOOO
